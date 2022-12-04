@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My DualReactApp</h1>
+      <h1 className = 'text-3xl'>My DualReactApp</h1>
       <div className='container'>
         <CounterApp/>
         <WeatherApp/>
